@@ -4,7 +4,7 @@
 		<meta charset="utf-8">
 	</head>
 	<body>
-		<h2>A New Application was received!</h2>
+		<b>A New Application was received!</b>
 
 		<div>
 			<ul>
