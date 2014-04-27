@@ -117,7 +117,7 @@ Route::post('/apply/process', function() {
 	Mail::send('emails.newapplication', $data, function($message) {
 
 		foreach (Config::get('recruitment.notifications') as $name => $email)
-			$message->to($email, $name)->subject('New Application Received by ' . $data['application_content']['character_name']);
+			$message->to($email, $name)->subject('New Application Received');
 	});
 
 	return View::make('success');
