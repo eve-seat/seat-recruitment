@@ -110,7 +110,7 @@
             <div class="col-lg-8 col-lg-offset-2">
                 <h2>Contact US</h2>
                 <p>Feel free to mail us, join our public channel or get hold of a reqruiter for more information!</p>
-                <p>Public Channel: <a onclick="CCPEVE.joinChannel('SYND.CFC')">WCS-Pub</a> ingame</p>
+                <p>Public Channel: <a onclick="CCPEVE.joinChannel('WCS-Pub')">WCS-Pub</a> ingame</p>
             </div>
         </div>
     </section>
