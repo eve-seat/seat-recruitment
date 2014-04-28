@@ -89,6 +89,8 @@
                                       <label class="col-md-4 control-label" for="singlebutton"></label>
                                       <div class="col-md-4">
                                         <button id="check-key" name="singlebutton" class="btn btn-default btn-block btn-lg">Check My Key</button>
+                                        <hr>
+                                        <a href="https://support.eveonline.com/api/Key/CreatePredefined/268435455" class="btn btn-default btn-block btn-sm pull-right" target="_blank">Create New API Key</a>
                                       </div>
                                     </div>
 
