@@ -7,7 +7,9 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>WCS. | Recruitment</title>
+    <title>WCS. | A South African Eve Online Corporation</title>
+    <meta name="Keywords" content="eve, south african, corporation">
+    <meta name="Description" content="WCS. Is a South African EVE Online Corporation with both Afrikaans and English Speaking members." />
 
     <!-- Bootstrap Core CSS -->
     <link href="http://netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css" rel="stylesheet" type="text/css">
