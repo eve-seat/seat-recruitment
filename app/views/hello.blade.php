@@ -22,7 +22,7 @@
 
 </head>
 
-<body id="page-top" data-spy="scroll" data-target=".navbar-custom">
+<body id="page-top" data-spy="scroll" data-target=".navbar-custom" onload="CCPEVE.requestTrust('{{ Config::get("app.url") }}')">
 
     <nav class="navbar navbar-custom navbar-fixed-top" role="navigation">
         <div class="container">
