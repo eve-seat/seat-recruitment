@@ -214,9 +214,9 @@
 
                           <!-- Text input-->
                           <div class="form-group">
-                            <label class="col-md-4 control-label" for="character_vouch">Who is your main WCS.?</label>  
+                            <label class="col-md-4 control-label" for="character_main">Who is your main WCS.?</label>  
                             <div class="col-md-4">
-                            <input id="character_vouch" name="character_vouch" type="text" placeholder="" class="form-control input-md">
+                            <input id="character_main" name="character_main" type="text" placeholder="" class="form-control input-md">
                             </div>
                           </div>
 
