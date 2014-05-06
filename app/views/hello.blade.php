@@ -66,7 +66,7 @@
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2">
                         <h1 class="brand-heading">[WCS.]</h1>
-                        <h5 class="intro-text">The Warp Core Stabalizers<br><small>A premier South African EVE Online Corporation</small></h5>
+                        <h5 class="intro-text">The Warp Core Stabilizers<br><small>A premier South African EVE Online Corporation</small></h5>
                         <div class="page-scroll">
                             <a href="#about" class="btn btn-circle">
                                 <i class="fa fa-angle-double-down animated"></i>
